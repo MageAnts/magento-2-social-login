@@ -2,10 +2,10 @@
 	<main>
 		<div class="content-wrapper">
 			<div class="content-inner">
-				<h2>Magento 2 Social Login Extension</h2>
+				<h1>Magento 2 Social Login Extension</h1>
 				<p><strong><a href="https://www.mageants.com/social-login-extension-for-magento-2.html">Magento 2 Social Login Extension</a></strong> is a tool that helps to integrate your store customer accounts to social media platforms such as Facebook, LinkedIn, Instagram, Twitter, and many more channels. Login to the online store via their social media account helps to enhance the user experience.</p>
 				<div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>Easy login without separately creating Login ID and password</li>
 						<li>Reduce time to login</li>
